@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <groupId>com.cybozu.labs</groupId>
+    <artifactId>langdetect</artifactId>
+    <version>1.0.0.0</version>
+    <versioning>
+        <versions>
+            <version>1.0.0.0</version>
+        </versions>
+        <lastUpdated>20122902095954</lastUpdated>
+    </versioning>
+</metadata>

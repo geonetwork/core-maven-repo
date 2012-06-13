@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>net.sf.saxon</groupId>
+  <artifactId>saxon-dom</artifactId>
+  <version>9.1.0.8b</version>
+  <versioning>
+    <versions>
+      <version>9.1.0.8b</version>
+    </versions>
+    <lastUpdated>20101025230000</lastUpdated>
+  </versioning>
+</metadata>
