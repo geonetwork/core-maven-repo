@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Oct 24 16:36:40 CEST 2012
+config-migration-2.9.0.jar>=
+config-migration-2.9.0.pom>=
