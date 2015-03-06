@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sf.saxon</groupId>
+  <artifactId>saxon-s9api</artifactId>
+  <versioning>
+    <release>9.1.0.8b</release>
+    <versions>
+      <version>9.1.0.8b</version>
+    </versions>
+    <lastUpdated>20150305164934</lastUpdated>
+  </versioning>
+</metadata>
