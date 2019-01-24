@@ -5,6 +5,12 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <archetypes>
         <archetype>
+            <groupId>org.mitre.dsmiley.httpproxy</groupId>
+            <artifactId>smiley-http-proxy-servlet</artifactId>
+            <version>1.11-sextant</version>
+            <repository>https://raw.githubusercontent.com/geonetwork/core-maven-repo/master</repository>
+        </archetype>
+        <archetype>
             <groupId>jakarta</groupId>
             <artifactId>jakarta-slide-webdavlib</artifactId>
             <version>2.1</version>
