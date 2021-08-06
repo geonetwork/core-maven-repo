@@ -19,7 +19,7 @@ This maven respository is not intended for direct use, it was setup for GeoNetwo
 If you find an older codebase such as GeoNetwork 3.0.x please update you `~/.m2/settings.xml` to mirror `core-maven-repo`:
 ```
 <mirrors>
-  </mirror><mirror>
+  <mirror>
     <id>core-maven-repo</id>
     <name>GeoNetwork Maven Repository</name>
     <url>https://repo.osgeo.org/repository/geonetwork-cache/</url>
